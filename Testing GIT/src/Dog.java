@@ -3,6 +3,11 @@ public class Dog {
 
 	
 	public static void main (String[] args){
+
+	}
+
+	private static void outputMessage() {
+
 		System.out.println("Changed this description");
 		System.out.println("Test conflict");
 
