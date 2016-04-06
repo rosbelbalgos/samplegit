@@ -5,6 +5,7 @@ public class Dog {
 	public static void main (String[] args){
 		outputMessage();
 		System.out.println("Added 1:24 pm");
+		System.out.println("Added 1:34 pm");
 
 	}
 
