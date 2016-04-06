@@ -15,7 +15,6 @@ public class Dog {
 
 		System.out.println("THIS IS MARVIN");
 		System.out.println("Adding a message");
-		System.out.println("This is a dog class");
-		System.out.println("CAT");
+		System.out.println("DOG");
 	}
 }
