@@ -13,6 +13,7 @@ class Try {
 		System.out.println("Tama na inum");
 		// push ==========> 1
 		// push ==========> 2
+		// push ==========>3
 
 
 	}
