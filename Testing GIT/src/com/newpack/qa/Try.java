@@ -15,7 +15,7 @@ class Try {
 		// push ==========> 2
 		// push ==========> 3
 		
-		System.out.println("Trying out conflict at 7:05 pm");
+		System.out.println("Trying out conflict at 7:14 pm");
 
 
 	}
