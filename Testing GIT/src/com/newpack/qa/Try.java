@@ -9,8 +9,8 @@ class Try {
 		x = x + 1;
 	}
 	if (x == 4){
-		System.out.println("Tama na inum");
-		System.out.println("Tama na inum");
+		System.out.println("1");
+		System.out.println("2");
 		// push ==========> 1
 		// push ==========> 2
 		// push ==========>3
