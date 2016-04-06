@@ -11,18 +11,14 @@ class Try {
 	if (x == 4){
 
 		System.out.println("Conflict at 7:31");
-		System.out.println("Conflict at 7:31");
+		//		̿ ̿̿ ̿’̿’̵͇̿̿з=(◣_◢)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿﻿ ̿̿ ̿̿
 
-		System.out.println("Conflict at 7:30");
-		System.out.println("Conflict at 7:23");
-		System.out.println("7:22");
-		System.out.println("7:20");
-		System.out.println("Conflict at 7:15");
+		//	̿ ̿̿ ̿’̿’̵͇̿̿з=(◣_◢)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿﻿ ̿̿ ̿̿
+		//		̿ ̿̿ ̿’̿’̵͇̿̿з=(◣_◢)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿﻿ ̿̿ ̿̿
 		System.out.println("2222222222222");
 		System.out.println("7:19");
-		// push ==========> 1
-		// push ==========> 2
-		// push ==========> 3
+		//		̿ ̿̿ ̿’̿’̵͇̿̿з=(◣_◢)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿﻿ ̿̿ ̿̿
+		//		̿ ̿̿ ̿’̿’̵͇̿̿з=(◣_◢)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿﻿ ̿̿ ̿̿
 		
 		System.out.println("Trying out conflict at 7:14 pm");
 
