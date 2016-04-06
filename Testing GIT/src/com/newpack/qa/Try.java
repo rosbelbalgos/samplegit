@@ -9,6 +9,6 @@ class IfElseLoop {
 		x = x + 1;
 	}
 	if (x == 4){
-		System.out.println("Tama ang iyong ginawa");
+		System.out.println("Tama");
 	}
 		}}
