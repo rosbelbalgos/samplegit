@@ -4,21 +4,7 @@ public class Dog {
 	
 	public static void main (String[] args){
 	
-		System.out.println("Added 1:24 pm");
-		System.out.println("Added 1:34 pm");
-		System.out.println("Added 1:41 pm");
-		System.out.println("Added 3:29 pm");
-		System.out.println("Added 3:37 pm");
-		System.out.println("Added 3:53 pm");
-		System.out.println("Changed this description");
-		System.out.println("Test conflict");
-		System.out.println("Added 1:24 pm");
-		System.out.println("Added 1:34 pm");
-		System.out.println("THIS IS MARVIN");
-		System.out.println("Adding a message");
-		
-		
-		System.out.println("Created 4:00pm");
-		System.out.println("Created 4:02pm");
+		System.out.println("This is a dog class");
+		System.out.println("CAT");
 	}
 }
