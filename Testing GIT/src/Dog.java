@@ -3,13 +3,14 @@ public class Dog {
 
 	
 	public static void main (String[] args){
-		System.out.println("Changed this description");
-		System.out.println("Changed this description");
-		
+		outputMessage();
 
-		System.out.println("Try conflict");
+	}
+
+	private static void outputMessage() {
+		System.out.println("Changed this description");
+		System.out.println("Changed this description");
 
 		System.out.println("THIS IS MARVIN");
-
 	}
 }
