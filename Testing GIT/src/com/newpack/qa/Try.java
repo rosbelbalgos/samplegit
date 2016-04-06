@@ -11,6 +11,7 @@ class Try {
 	if (x == 4){
 		System.out.println("Conflict at 7:15");
 		System.out.println("2222222222222");
+		System.out.println("7:19");
 		// push ==========> 1
 		// push ==========> 2
 		// push ==========> 3
