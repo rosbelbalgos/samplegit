@@ -9,6 +9,7 @@ class Try {
 		x = x + 1;
 	}
 	if (x == 4){
+		System.out.println("Conflict at 7:27");
 		System.out.println("Conflict at 7:23");
 		System.out.println("7:22");
 		System.out.println("7:20");
