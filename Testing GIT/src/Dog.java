@@ -12,5 +12,6 @@ public class Dog {
 		System.out.println("Changed this description");
 
 		System.out.println("THIS IS MARVIN");
+		System.out.println("Adding a message");
 	}
 }
