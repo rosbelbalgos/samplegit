@@ -6,5 +6,6 @@ public class Dog {
 	
 		System.out.println("This is a dog class");
 		System.out.println("CAT");
+		System.out.println("Panda");
 	}
 }
