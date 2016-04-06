@@ -19,4 +19,5 @@ class IfElseLoop {
 		System.out.println("Tama na inum");
 		System.out.println("Tama na inum");
 	}
-		}}
+	}
+}
