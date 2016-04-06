@@ -9,6 +9,6 @@ public class try2 {
 			x = x + 1;
 		}
 		if (x == 4){
-			System.out.println("Tama");
+			System.out.println("Pag tama ka meron kang redhorse");
 		}
 			}}
