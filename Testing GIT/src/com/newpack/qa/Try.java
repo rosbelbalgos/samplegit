@@ -11,8 +11,7 @@ class Try {
 	if (x == 4){
 		System.out.println("Tama na inum");
 		System.out.println("Tama na inum");
-		System.out.println("Tama na inum");
-		System.out.println("Tama na inum");
+		// push ==========> 1
 
 
 	}
