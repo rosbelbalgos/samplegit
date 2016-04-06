@@ -10,5 +10,13 @@ class IfElseLoop {
 	}
 	if (x == 4){
 		System.out.println("Tama na inum");
+		System.out.println("Tama na inum");
+		System.out.println("Tama na inum");
+		System.out.println("Tama na inum");
+		System.out.println("Tama na inum");
+		System.out.println("Tama na inum");
+		System.out.println("Tama na inum");
+		System.out.println("Tama na inum");
+		System.out.println("Tama na inum");
 	}
 		}}
