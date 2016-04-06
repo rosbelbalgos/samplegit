@@ -19,5 +19,6 @@ public class Dog {
 		
 		
 		System.out.println("Created 4:00pm");
+		System.out.println("Created 4:02pm");
 	}
 }
