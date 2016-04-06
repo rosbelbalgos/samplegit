@@ -1,6 +1,6 @@
 package com.newpack.qa;
 
-class IfElseLoop {
+class Try {
 	public static void main (String[] args) {
 	int x = 1;
 	while (x < 4){
@@ -13,8 +13,7 @@ class IfElseLoop {
 		System.out.println("Tama na inum");
 		System.out.println("Tama na inum");
 		System.out.println("Tama na inum");
-		System.out.println("Tama na inum");
-		System.out.println("Tama na inum");
+
 
 	}
 	}
