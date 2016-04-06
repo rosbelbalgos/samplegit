@@ -7,7 +7,6 @@ public class Dog {
 		System.out.println("Added 1:24 pm");
 		System.out.println("Added 1:34 pm");
 		System.out.println("Added 1:41 pm");
-
 	}
 
 	private static void outputMessage() {
