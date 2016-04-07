@@ -13,6 +13,6 @@ public class Dog {
 
 		System.out.println("THIS IS MARVIN");
 		System.out.println("Adding a message");
-		System.out.println("Line 16 modified by Macy");
+		System.out.println("Line");
 	}
 }
