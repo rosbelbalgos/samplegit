@@ -9,13 +9,7 @@ class Try {
 		x = x + 1;
 	}
 	if (x == 4){
-		System.out.println("Conflict at 7:31");
-		System.out.println("2222222222222");
-		System.out.println("7:19");
-		System.out.println("Trying out conflict at 7:14 pm");
-		System.out.println("Added line 17");
-		System.out.println("Added line 18");
-		System.out.println("Added line 19");
+		System.out.println("Conflict at 11:13 AM");
 
 	}
 	}
