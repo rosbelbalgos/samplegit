@@ -15,6 +15,6 @@ public class Dog {
 		System.out.println("Adding a message");
 
 		System.out.println("Line");
-
+System.out.println("");
 	}
 }
